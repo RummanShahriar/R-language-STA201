@@ -1,2 +1,2 @@
-# R_language_STA201
+# R language_STA201
 Data fetching Project 
